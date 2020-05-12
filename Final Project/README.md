@@ -9,8 +9,8 @@ So as part of this project , we will list and visualize all major parts of New Y
 Data For this project we need the following data :
 
 + New York City data that contains list Boroughs, Neighborhoods along with their latitude and longitude.
-  +Data source : https://cocl.us/new_york_dataset
-  +Description : This data set contains the required information. And we will use this data set to explore various neighborhoods of new york city.
+  + Data source : https://cocl.us/new_york_dataset
+  + Description : This data set contains the required information. And we will use this data set to explore various neighborhoods of new york city.
 
 + Brazilian resturants in each neighborhood of new york city.
   + Data source : Fousquare API
