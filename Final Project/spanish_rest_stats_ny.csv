@@ -1,0 +1,131 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Bronx,Co-op City,58a9ca678ae363643f8827a2,Sangria Cafe,7.0,7.7,3.0
+Bronx,Kingsbridge,4ca785a597c8a1cd7e577ba5,El Economico Restaurant,18.0,7.8,8.0
+Bronx,Kingsbridge,50ea5611e4b044bdeead3ade,Q'Kachapa,16.0,7.3,6.0
+Manhattan,Marble Hill,4ca785a597c8a1cd7e577ba5,El Economico Restaurant,18.0,7.8,8.0
+Manhattan,Marble Hill,50ea5611e4b044bdeead3ade,Q'Kachapa,16.0,7.3,6.0
+Manhattan,Marble Hill,0,0,0.0,0.0,0.0
+Bronx,Norwood,4b7435aef964a52042cd2de3,Caribe Restaurant,13.0,6.2,8.0
+Bronx,Norwood,4cdadbde958f236a337da903,El Presidente II,9.0,6.0,6.0
+Bronx,Norwood,0,0,0.0,0.0,0.0
+Bronx,Williamsbridge,0,0,0.0,0.0,0.0
+Bronx,Baychester,4be2ecf6b02ec9b6a5064ec0,Caridad & Louie,66.0,8.2,27.0
+Bronx,Baychester,58a9ca678ae363643f8827a2,Sangria Cafe,7.0,7.7,3.0
+Bronx,Pelham Parkway,0,0,0.0,0.0,0.0
+Bronx,City Island,0,0,0.0,0.0,0.0
+Bronx,Bedford Park,4e4d0392bd413c4cc66dfde5,Shalon Restaurant,3.0,7.3,3.0
+Bronx,Bedford Park,519aae54498ec1fda8c8ae81,La Rola Resturant,3.0,5.9,1.0
+Bronx,University Heights,4c9fcdfc8afca09381840d16,Liberato,11.0,7.0,8.0
+Bronx,University Heights,4c6c82f56af58cfac5248717,Elsa La Reina Del Chicharrón (Elsa The Queen Of Pork Rind),8.0,6.6,6.0
+Bronx,University Heights,4cd21cee1ac7a1cd743b2392,El Nuevo Valle,5.0,6.4,4.0
+Bronx,Morris Heights,4e39863dae60f589a5dc0dcb,Yoly Restaurant,5.0,7.5,3.0
+Bronx,Morris Heights,4cd21cee1ac7a1cd743b2392,El Nuevo Valle,5.0,6.4,4.0
+Bronx,Fordham,4cf9d4d12d80a14383df40d8,Kasike Mofongo House,13.0,7.4,6.0
+Bronx,Fordham,4bb7b71998c7ef3bf03e3002,Three  Spanish  Restaurant,7.0,6.7,7.0
+Bronx,Fordham,4e4d0392bd413c4cc66dfde5,Shalon Restaurant,3.0,7.3,3.0
+Bronx,Fordham,4c9fcdfc8afca09381840d16,Liberato,11.0,7.0,8.0
+Bronx,Fordham,4c6c82f56af58cfac5248717,Elsa La Reina Del Chicharrón (Elsa The Queen Of Pork Rind),8.0,6.6,6.0
+Bronx,East Tremont,0,0,0.0,0.0,0.0
+Bronx,East Tremont,0,0,0.0,0.0,0.0
+Bronx,West Farms,0,0,0.0,0.0,0.0
+Bronx,Melrose,4ba52d35f964a52002e838e3,El Valle Restaurant,12.0,8.0,9.0
+Bronx,Mott Haven,4ba52d35f964a52002e838e3,El Valle Restaurant,12.0,8.0,9.0
+Bronx,Port Morris,0,0,0.0,0.0,0.0
+Bronx,Longwood,4c096282009a0f479bade7bf,El Valle,7.0,5.8,6.0
+Bronx,Hunts Point,4c9ca8fc54c8a1cd9e057c4b,Randall Restaurant,5.0,7.1,2.0
+Bronx,Morrisania,4c096282009a0f479bade7bf,El Valle,7.0,5.8,6.0
+Bronx,Parkchester,4c8be9fa509e3704e0822e55,Brisas Express,9.0,8.7,6.0
+Bronx,Parkchester,57c7456a498ef7478ef7fe87,Havana Café,12.0,8.4,1.0
+Bronx,Parkchester,4b7738e5f964a5203a892ee3,La Cocina Boricua,34.0,7.8,21.0
+Bronx,Parkchester,4eed3d759a52993fb7108490,Isla Verde Cafe & Express,48.0,8.2,14.0
+Bronx,Parkchester,4c9d47ea46978cfa6244967f,Maestro's Caterers,48.0,5.9,18.0
+Bronx,Parkchester,0,0,0.0,0.0,0.0
+Bronx,Westchester Square,4b7738e5f964a5203a892ee3,La Cocina Boricua,34.0,7.8,21.0
+Bronx,Westchester Square,4b68b130f964a52071872be3,Caridad  Restaurant,8.0,5.6,8.0
+Bronx,Van Nest,4b8db810f964a5206a0a33e3,Cafe Colonial,42.0,7.2,33.0
+Bronx,Van Nest,4c9d47ea46978cfa6244967f,Maestro's Caterers,48.0,5.9,18.0
+Bronx,Morris Park,4c9d47ea46978cfa6244967f,Maestro's Caterers,48.0,5.9,18.0
+Bronx,Morris Park,4b68b130f964a52071872be3,Caridad  Restaurant,8.0,5.6,8.0
+Bronx,Morris Park,0,0,0.0,0.0,0.0
+Bronx,Belmont,4cf9d4d12d80a14383df40d8,Kasike Mofongo House,13.0,7.4,6.0
+Bronx,Belmont,4bb7b71998c7ef3bf03e3002,Three  Spanish  Restaurant,7.0,6.7,7.0
+Bronx,Pelham Gardens,4be2ecf6b02ec9b6a5064ec0,Caridad & Louie,66.0,8.2,27.0
+Bronx,Concourse,531285f5498e27c059004eee,El Gran Valle Restaurant,7.0,7.7,3.0
+Bronx,Unionport,57c7456a498ef7478ef7fe87,Havana Café,12.0,8.4,1.0
+Bronx,Unionport,4b7738e5f964a5203a892ee3,La Cocina Boricua,34.0,7.8,21.0
+Bronx,Unionport,0,0,0.0,0.0,0.0
+Bronx,Unionport,0,0,0.0,0.0,0.0
+Brooklyn,Sunset Park,4e98bc8a722e25a7f58252fb,Mi Castillo Restaurant,5.0,7.5,2.0
+Brooklyn,Sunset Park,4a63ae85f964a52093c51fe3,El Yayo Nuevo,10.0,7.4,8.0
+Brooklyn,Brownsville,506ef5e6e4b06f9dbb264036,Tropical Coffee Shop,6.0,6.7,1.0
+Brooklyn,Brownsville,0,0,0.0,0.0,0.0
+Brooklyn,Cobble Hill,4f6e5ea9e4b086107787908b,La Vara,491.0,8.6,142.0
+Brooklyn,East New York,0,0,0.0,0.0,0.0
+Brooklyn,Dyker Heights,53f686a4498e7b09596566b4,Campo Bello Restaurant 2,4.0,7.4,2.0
+Brooklyn,Prospect Lefferts Gardens,57811b1f498e9779eb16f09e,El Castillo de Jagua,10.0,7.6,4.0
+Brooklyn,Fort Hamilton,53f686a4498e7b09596566b4,Campo Bello Restaurant 2,4.0,7.4,2.0
+Manhattan,Chinatown,59480a78f62e090a3b4d6eb7,Cervo's,102.0,8.7,21.0
+Manhattan,Washington Heights,4bb8cdb053649c74465847fb,Punto de Sabor Restaurant,10.0,7.8,5.0
+Manhattan,Washington Heights,4acce300f964a520e2c920e3,Mambi Steak House Bar & Grill,21.0,7.7,21.0
+Manhattan,Washington Heights,4b04b9a2f964a5205a5622e3,El Conde Steakhouse,21.0,7.4,17.0
+Manhattan,Inwood,4c043cd3f423a593955dd116,La Reina Del Chicharron,22.0,8.3,7.0
+Manhattan,Inwood,4becab8e0ddaa59385ec1dc3,La Nueva España,20.0,6.8,13.0
+Manhattan,Inwood,4ba2b7f2f964a5202f1338e3,Dyckman Express,20.0,7.1,14.0
+Manhattan,Inwood,4bcdd0a6fb84c9b61c98223e,Mamajuana Cafe,171.0,6.9,94.0
+Manhattan,Inwood,4a738810f964a520b6dc1fe3,Albert's Mofongo House,35.0,6.7,20.0
+Manhattan,Hamilton Heights,4b55274bf964a52006dd27e3,Mofongo del Valle,7.0,8.1,6.0
+Manhattan,Manhattanville,4b55274bf964a52006dd27e3,Mofongo del Valle,7.0,8.1,6.0
+Manhattan,Central Harlem,4bdb64a82a3a0f471cd8aeb6,Tropical Grill & Restaurant,40.0,8.0,20.0
+Manhattan,East Harlem,4b9466d7f964a520ee7734e3,El Nuevo Caridad,59.0,8.0,25.0
+Manhattan,Upper East Side,4bca3ca70687ef3b5ca3dbcc,Pil Pil,232.0,8.6,68.0
+Manhattan,Upper East Side,542a0b46498e786c48692618,Boqueria,366.0,9.1,92.0
+Manhattan,Lenox Hill,542a0b46498e786c48692618,Boqueria,366.0,9.1,92.0
+Manhattan,Lenox Hill,4bca3ca70687ef3b5ca3dbcc,Pil Pil,232.0,8.6,68.0
+Manhattan,Roosevelt Island,4cbdec58035d236addb1ed4e,Boulevard Restaurant,7.0,6.9,5.0
+Manhattan,Greenwich Village,45697387f964a520e53d1fe3,Despaña,887.0,9.0,288.0
+Manhattan,Lower East Side,5df85b53439042000874246c,Ernesto's,10.0,7.7,4.0
+Manhattan,Little Italy,45697387f964a520e53d1fe3,Despaña,887.0,9.0,288.0
+Manhattan,Soho,45697387f964a520e53d1fe3,Despaña,887.0,9.0,288.0
+Manhattan,Gramercy,457ebe82f964a5203e3f1fe3,Casa Mono,615.0,8.9,202.0
+Queens,Jackson Heights,4d1a631e1683a1437bf37351,La Picada Azuaya,6.0,8.0,2.0
+Queens,Elmhurst,4d1a631e1683a1437bf37351,La Picada Azuaya,6.0,8.0,2.0
+Queens,Corona,0,0,0.0,0.0,0.0
+Queens,Forest Hills,530e971c498ea305c708a58f,Tu Arepa Pizza Cafe,6.0,7.4,1.0
+Queens,Richmond Hill,4ec1a837722e0f78de974903,Girasol Bakery,2.0,5.8,8.0
+Queens,East Elmhurst,0,0,0.0,0.0,0.0
+Queens,East Elmhurst,0,0,0.0,0.0,0.0
+Queens,Rego Park,530e971c498ea305c708a58f,Tu Arepa Pizza Cafe,6.0,7.4,1.0
+Queens,Ozone Park,4c39e32e18e72d7f32dc1af5,Libertad Restaurant,6.0,6.5,4.0
+Queens,Bayside,5669ffe7498edbe082db916f,Sangarita's Tapas Wine,10.0,7.3,0.0
+Queens,Briarwood,4bc4abb374a9a5930928d6f6,El Rey Restaurant,28.0,7.1,15.0
+Queens,Rosedale,0,0,0.0,0.0,0.0
+Queens,Rockaway Beach,4ba61a26f964a520b13339e3,Brisas Del Mar,7.0,7.6,5.0
+Queens,North Corona,0,0,0.0,0.0,0.0
+Staten Island,St. George,0,0,0.0,0.0,0.0
+Staten Island,New Brighton,0,0,0.0,0.0,0.0
+Staten Island,Stapleton,4cfc0726c6cca35dcc808f32,Campo Bello Restaurante,32.0,8.1,7.0
+Staten Island,Grymes Hill,4cfc0726c6cca35dcc808f32,Campo Bello Restaurante,32.0,8.1,7.0
+Staten Island,Mariner's Harbor,4b22f935f964a5205a5124e3,Real Madrid Restaurant,24.0,7.3,15.0
+Staten Island,Travis,4e4cc369bd413c4cc66bf90c,El Pollo II Restaurant,11.0,8.1,4.0
+Staten Island,Great Kills,4c9bea5954c8a1cd97b3754b,La Candela Espanola,4.0,6.6,9.0
+Staten Island,Sunnyside,4b65f266f964a520530a2be3,El Pollo Restaurant,20.0,8.1,12.0
+Staten Island,Park Hill,4b65f266f964a520530a2be3,El Pollo Restaurant,20.0,8.1,12.0
+Staten Island,Graniteville,4b22f935f964a5205a5124e3,Real Madrid Restaurant,24.0,7.3,15.0
+Staten Island,Midland Beach,0,0,0.0,0.0,0.0
+Staten Island,Bay Terrace,4c9bea5954c8a1cd97b3754b,La Candela Espanola,4.0,6.6,9.0
+Staten Island,Chelsea,4e4cc369bd413c4cc66bf90c,El Pollo II Restaurant,11.0,8.1,4.0
+Staten Island,Clifton,4cfc0726c6cca35dcc808f32,Campo Bello Restaurante,32.0,8.1,7.0
+Staten Island,Concord,4b65f266f964a520530a2be3,El Pollo Restaurant,20.0,8.1,12.0
+Bronx,Concourse Village,531285f5498e27c059004eee,El Gran Valle Restaurant,7.0,7.7,3.0
+Bronx,Mount Eden,4e39863dae60f589a5dc0dcb,Yoly Restaurant,5.0,7.5,3.0
+Bronx,Mount Eden,4cd21cee1ac7a1cd743b2392,El Nuevo Valle,5.0,6.4,4.0
+Bronx,Mount Hope,4cd21cee1ac7a1cd743b2392,El Nuevo Valle,5.0,6.4,4.0
+Manhattan,Flatiron,457ebe82f964a5203e3f1fe3,Casa Mono,615.0,8.9,202.0
+Queens,Middle Village,0,0,0.0,0.0,0.0
+Bronx,Bronxdale,4b8db810f964a5206a0a33e3,Cafe Colonial,42.0,7.2,33.0
+Bronx,Bronxdale,4c9d47ea46978cfa6244967f,Maestro's Caterers,48.0,5.9,18.0
+Bronx,Allerton,0,0,0.0,0.0,0.0
+Bronx,Kingsbridge Heights,4e4d0392bd413c4cc66dfde5,Shalon Restaurant,3.0,7.3,3.0
+Queens,Queensbridge,4cbdec58035d236addb1ed4e,Boulevard Restaurant,7.0,6.9,5.0
+Staten Island,Fox Hills,4b65f266f964a520530a2be3,El Pollo Restaurant,20.0,8.1,12.0
+Staten Island,Fox Hills,4cfc0726c6cca35dcc808f32,Campo Bello Restaurante,32.0,8.1,7.0
